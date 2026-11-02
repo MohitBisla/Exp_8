@@ -23,4 +23,4 @@ jobs:
         run: python train.py
 
       - name: ML model Testing
-        run: puthon test.py
+        run: python test.py
